@@ -1,0 +1,14 @@
+Package: paquet
+Version: 0.1
+Architecture: all
+Maintainer: Clement Oudin
+Depends: python3, rsync, sudo, htop, openntpd, exim4, php5
+Filename: ./paquet.deb
+Size: 5148
+MD5sum: a0869c2755be2ba56061b65c25e91d3c
+SHA1: 95e55004490701288dff43a59004be6cdbc64ac9
+SHA256: f1a4192759db590f852caa81e81cdcd5237d8e60871cc051929395f43fa0d5c8
+Section: main
+Priority: optional
+Description: premier paquet
+
