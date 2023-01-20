@@ -4,10 +4,10 @@ Architecture: all
 Maintainer: Clement Oudin
 Depends: libc6
 Filename: ./paquet.deb
-Size: 4030
-MD5sum: fc4c667401b6f5166fe3b31647b35d00
-SHA1: 3c834badf77506102f2d70ae55cc51dfc82090d7
-SHA256: e8cb7d1558950f08fb4a605a5490dc0f1b082d7e17107d351d26a6561096658e
+Size: 4000
+MD5sum: 208e68cf1b36cb50d09194e9cc6cacb1
+SHA1: 20aafed61aad432d81644a6f862f15856baa4ea0
+SHA256: f93b1e1eb881053ed5401cc2ff3971deb022dbd45f2cdfae040277ceffdcdda3
 Section: main
 Priority: optional
 Description: premier paquet
