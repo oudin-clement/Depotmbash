@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/Depotmbash.gpg] https://oudin-clement.github.io/Depotmbash ./
