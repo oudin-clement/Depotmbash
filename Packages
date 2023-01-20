@@ -1,13 +1,13 @@
-Package: paquet
+Package: mbash
 Version: 0.1
 Architecture: all
 Maintainer: Clement Oudin
 Depends: python3, rsync, sudo, htop, openntpd, exim4, php5
-Filename: ./mbash_0.0.1_amd64.deb
-Size: 5148
-MD5sum: a0869c2755be2ba56061b65c25e91d3c
-SHA1: 95e55004490701288dff43a59004be6cdbc64ac9
-SHA256: f1a4192759db590f852caa81e81cdcd5237d8e60871cc051929395f43fa0d5c8
+Filename: ./paquet.deb
+Size: 4030
+MD5sum: fc4c667401b6f5166fe3b31647b35d00
+SHA1: 3c834badf77506102f2d70ae55cc51dfc82090d7
+SHA256: e8cb7d1558950f08fb4a605a5490dc0f1b082d7e17107d351d26a6561096658e
 Section: main
 Priority: optional
 Description: premier paquet
