@@ -2,7 +2,7 @@ Package: mbash
 Version: 0.1
 Architecture: all
 Maintainer: Clement Oudin
-Depends: python3, rsync, sudo, htop, openntpd, exim4, php5
+Depends: libc6
 Filename: ./paquet.deb
 Size: 4030
 MD5sum: fc4c667401b6f5166fe3b31647b35d00
